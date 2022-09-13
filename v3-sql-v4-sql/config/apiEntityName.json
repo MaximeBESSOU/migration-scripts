@@ -1,0 +1,8 @@
+[
+    {"jobs": "job"},
+    {"founders": "founder"},
+    {"collaborators": "collaborator"},
+    {"managers": "manager"},
+    {"slides": "slide"},
+    {"articles": "article"}
+]
